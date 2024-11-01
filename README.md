@@ -9,29 +9,15 @@
    
  # group assingment 
  
- **Scenario:** You are tasked with managing employee records in a company database. Create a PL/SQL program that includes 
-both a procedure and a function.
-## Requirements:
- **1. Function:** Create a function named get_employee_salary that takes an employee ID as a parameter and returns the 
-     employee's salary.
-     
-**2. Procedure:** Create a procedure named update_employee_salary that takes an employee ID and a percentage increase as 
-parameters. The procedure should update the employee's salary by the given percentage. If the employee does not exist, 
-raise an exception.
-
-## Implementation Steps:
-▪ Create a table employees with columns: employee_id, first_name, last_name, salary.
-▪ Write the function get_employee_salary.
-▪ Write the procedure update_employee_salary.
-▪ Test both the function and the procedure.
-
+ **Scenario:** You are tasked with managing employee attendance records in a company database. Create a PL/SQL program that includes 
+a procedure.
 
 # Introduction
 This project contains a PL/SQL procedure designed to calculate monthly attendance statistics for employees. The procedure, Calculate_Attendance_Stats, takes the month and year as parameters and calculates the total days present and absent for each employee, along with their attendance percentage. The goal of this project is to streamline attendance reporting by providing a quick summary of each employee’s attendance in a specified month.
 
 # Procedure Code
 
-```bash
+```sql
 CREATE OR REPLACE PROCEDURE Calculate_Attendance_Stats ( 
     p_month NUMBER,
     p_year NUMBER
@@ -88,3 +74,7 @@ END Calculate_Attendance_Stats;
 
 ![WhatsApp Image 2024-11-01 at 19 13 10 (1)](https://github.com/user-attachments/assets/a758158d-515f-4f09-baba-8c6d09d9b421)
 
+# Closing remarks:
+##_for more explanation; please proceed to the staging branch of the repository._
+
+## THANKS FOR YOUR TIME!
