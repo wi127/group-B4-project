@@ -421,7 +421,7 @@ INSERT INTO Attendance (Employee_ID, Attendance_Date, Status) VALUES (28, TO_DAT
 COMMIT;
 
 ```
-##step 2:
+## step 2:
 create the procedure:
 
 ```sql
@@ -481,9 +481,11 @@ Call the procedure there are many ways to call a procedure so if you find my qui
 output given after calling the function:
 
 _The records available:_
+
 ![WhatsApp Image 2024-11-01 at 19 13 10](https://github.com/user-attachments/assets/9c3f2460-8c3b-429b-ba5a-df85a570478a)
 
 _No records available:_
+
 ![WhatsApp Image 2024-11-01 at 19 13 10 (1)](https://github.com/user-attachments/assets/a758158d-515f-4f09-baba-8c6d09d9b421)
 
 
