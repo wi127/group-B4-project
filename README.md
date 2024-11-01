@@ -1,4 +1,4 @@
-## group B4 colaborators : 
+## GROUP B4 colaborators : 
 - 22980 NKUSI William
 - 25048 NTWALI Deus
 - 24154 MUGABO Patience
