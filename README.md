@@ -14,9 +14,11 @@ both a procedure and a function.
 ## Requirements:
  **1. Function:** Create a function named get_employee_salary that takes an employee ID as a parameter and returns the 
      employee's salary.
+     
 **2. Procedure:** Create a procedure named update_employee_salary that takes an employee ID and a percentage increase as 
 parameters. The procedure should update the employee's salary by the given percentage. If the employee does not exist, 
 raise an exception.
+
 ## Implementation Steps:
 ▪ Create a table employees with columns: employee_id, first_name, last_name, salary.
 ▪ Write the function get_employee_salary.
