@@ -1,10 +1,16 @@
 ## GROUP B4 colaborators : 
 _- 22980 NKUSI William_
+
 _- 25048 NTWALI Deus_
+
 _- 24154 MUGABO Patience_
+
 _- 23752 IRAKOZE Peace Arlaine_
+
 _- 24104 DUSABEYESU Sangwa Fabrice_
+
 _- 26500 SHEJA N M Yves_
+
 _- 26685 MANIRABONA Hirwa Patience_
    
  # group assingment 
