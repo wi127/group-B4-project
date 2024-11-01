@@ -75,6 +75,6 @@ END Calculate_Attendance_Stats;
 ![WhatsApp Image 2024-11-01 at 19 13 10 (1)](https://github.com/user-attachments/assets/a758158d-515f-4f09-baba-8c6d09d9b421)
 
 # Closing remarks:
-##_for more explanation; please proceed to the staging branch of the repository._
+## _for more explanation; please proceed to the staging branch of the repository._
 
 ## THANKS FOR YOUR TIME!
