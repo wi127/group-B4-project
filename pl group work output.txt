@@ -1,0 +1,200 @@
+SQL> EXECUTE calculate_attendance_stats(09,2024);
+
+PL/SQL procedure successfully completed.
+
+SQL> SET SERVEROUTPUT ON;
+
+SQL> EXECUTE calculate_attendance_stats(09,2024);
+
+Employee: Joseph Manizabayo
+Total Presents: 7
+Total Absents: 0
+Attendance Percentage: 23.33%
+
+Employee: Alain ISHIMWE Pacifique
+Total Presents: 3
+Total Absents: 4
+Attendance Percentage: 10%
+
+Employee: David Mucyo
+Total Presents: 5
+Total Absents: 1
+Attendance Percentage: 16.67%
+
+Employee: Allan Ntarindwanshuti
+Total Presents: 7
+Total Absents: 0
+Attendance Percentage: 23.33%
+
+Employee: Josue IRIRWANIRIRA
+Total Presents: 4
+Total Absents: 3
+Attendance Percentage: 13.33%
+
+Employee: Bienfait Ndahiriwe
+Total Presents: 6
+Total Absents: 1
+Attendance Percentage: 20%
+
+Employee: Daniella Ineza Ndazaro
+Total Presents: 3
+Total Absents: 3
+Attendance Percentage: 10%
+
+Employee: Kevine Mukamisha
+Total Presents: 7
+Total Absents: 0
+Attendance Percentage: 23.33%
+
+Employee: Kevin Nshuti
+Total Presents: 4
+Total Absents: 3
+Attendance Percentage: 13.33%
+
+Employee: Deborah ISHIMWE
+Total Presents: 6
+Total Absents: 1
+Attendance Percentage: 20%
+
+Employee: Thoti NIBISHAKA PACIFIQUE
+Total Presents: 5
+Total Absents: 1
+Attendance Percentage: 16.67%
+
+Employee: Dieu-Merci Shyaka
+Total Presents: 7
+Total Absents: 0
+Attendance Percentage: 23.33%
+
+Employee: Bonheur Nkomejimihigo
+Total Presents: 4
+Total Absents: 3
+Attendance Percentage: 13.33%
+
+Employee: Lorraine UFITINEMA Kayinamura
+Total Presents: 6
+Total Absents: 1
+Attendance Percentage: 20%
+
+Employee: Carine Uwera
+Total Presents: 6
+Total Absents: 0
+Attendance Percentage: 20%
+
+Employee: Daniel Habimana
+Total Presents: 4
+Total Absents: 3
+Attendance Percentage: 13.33%
+
+Employee: Raissa Hahirwa
+Total Presents: 7
+Total Absents: 0
+Attendance Percentage: 23.33%
+
+Employee: Ahmat Bechir
+Total Presents: 6
+Total Absents: 1
+Attendance Percentage: 20%
+
+Employee: Jonathan Ndayizeye
+Total Presents: 5
+Total Absents: 1
+Attendance Percentage: 16.67%
+
+Employee: Mustafa Bukenya
+Total Presents: 7
+Total Absents: 0
+Attendance Percentage: 23.33%
+
+Employee: Alexis Ndayambaje
+Total Presents: 7
+Total Absents: 0
+Attendance Percentage: 23.33%
+
+Employee: Ishimwe PACIFIQUE
+Total Presents: 0
+Total Absents: 7
+Attendance Percentage: 0%
+
+Employee: Ketsia Niyonsaba
+Total Presents: 3
+Total Absents: 3
+Attendance Percentage: 10%
+
+Employee: Marianne Nkurunziza
+Total Presents: 6
+Total Absents: 1
+Attendance Percentage: 20%
+
+Employee: Amani Kabera
+Total Presents: 7
+Total Absents: 0
+Attendance Percentage: 23.33%
+
+Employee: Alexis Nishimwe
+Total Presents: 0
+Total Absents: 7
+Attendance Percentage: 0%
+
+Employee: Blossom Innocent
+Total Presents: 0
+Total Absents: 3
+Attendance Percentage: 0%
+
+Employee: Hillary Nkunda
+Total Presents: 7
+Total Absents: 0
+Attendance Percentage: 23.33%
+
+No attendance records found for Emmanuel Habimana in the specified month.
+No attendance records found for Grace Uwase in the specified month.
+No attendance records found for David Nkurunziza in the specified month.
+No attendance records found for Rose Nyirahabineza in the specified month.
+No attendance records found for John Mukiza in the specified month.
+No attendance records found for Patricia Niyonsenga in the specified month.
+No attendance records found for Joseph Bimenyimana in the specified month.
+No attendance records found for Esther Uwimana in the specified month.
+No attendance records found for Sylvestre Kabagwira in the specified month.
+No attendance records found for Carine Mukasine in the specified month.
+No attendance records found for Iradukunda Marie in the specified month.
+No attendance records found for Claude Mugisha in the specified month.
+No attendance records found for Jules Niyonzima in the specified month.
+No attendance records found for Bruno Habiyaremye in the specified month.
+No attendance records found for Anna Mukamurenzi in the specified month.
+No attendance records found for Felix Mutabazi in the specified month.
+No attendance records found for Christelle Uwimbabazi in the specified month.
+No attendance records found for Didier Ntakirutimana in the specified month.
+No attendance records found for Jacqueline Murekatete in the specified month.
+No attendance records found for Gedeon Uwizeyimana in the specified month.
+No attendance records found for Nicole Mutoni in the specified month.
+No attendance records found for Isaac Karangwa in the specified month.
+No attendance records found for Liliane Banyarwanda in the specified month.
+No attendance records found for Patrick Mugabe in the specified month.
+No attendance records found for Sandrine Iradukunda in the specified month.
+No attendance records found for Benjamin Nsengiyumva in the specified month.
+No attendance records found for Yvette Muhire in the specified month.
+No attendance records found for Claude Manzi in the specified month.
+No attendance records found for Innocent Ndahimana in the specified month.
+No attendance records found for Joyce Niyonkuru in the specified month.
+No attendance records found for Thierry Ndayishimiye in the specified month.
+No attendance records found for Moses Murenzi in the specified month.
+No attendance records found for Claudine Ndagijimana in the specified month.
+No attendance records found for Phiona Uwase in the specified month.
+No attendance records found for Samuel Havugimana in the specified month.
+No attendance records found for Diane Uwimana in the specified month.
+No attendance records found for Elie Mukarugwiza in the specified month.
+No attendance records found for Josephine Nsabimana in the specified month.
+No attendance records found for Giselle Ishimwe in the specified month.
+No attendance records found for Victor Rukundo in the specified month.
+No attendance records found for Christophe Ntirenganya in the specified month.
+No attendance records found for Jeannette Habimana in the specified month.
+No attendance records found for Noel Nzeyimana in the specified month.
+No attendance records found for Teta Mukasine in the specified month.
+No attendance records found for Eric Karangwa in the specified month.
+No attendance records found for Chantal Nirere in the specified month.
+No attendance records found for Jean Nziza in the specified month.
+No attendance records found for Sarah Nkurunziza in the specified month.
+No attendance records found for John Niyonzima in the specified month.
+No attendance records found for Grace Uwizeyimana in the specified month.
+
+PL/SQL procedure successfully completed.
