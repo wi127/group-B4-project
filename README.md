@@ -19,7 +19,12 @@ _- 26685 MANIRABONA Hirwa Patience_
 a procedure.
 
 # Introduction
+this is a full detailed with explanation and testing for the procedure.
+
 This project contains a PL/SQL procedure designed to calculate monthly attendance statistics for employees. The procedure, Calculate_Attendance_Stats, takes the month and year as parameters and calculates the total days present and absent for each employee, along with their attendance percentage. The goal of this project is to streamline attendance reporting by providing a quick summary of each employee’s attendance in a specified month.
+
+## step 1:
+
 
 # Procedure Code
 
