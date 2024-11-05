@@ -12,6 +12,8 @@ _- 24104 DUSABEYESU Sangwa Fabrice_
 _- 26500 SHEJA N M Yves_
 
 _- 26685 MANIRABONA Hirwa Patience_
+
+_- 23530 Iteriteka Bertrand_
    
  # group assingment 
  
