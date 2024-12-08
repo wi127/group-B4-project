@@ -7,7 +7,7 @@ _- 24154 MUGABO Patience_
 
 _- 23752 IRAKOZE Peace Arlaine_
 
-_- 24104 DUSABEYESU Sangwa Fabrice_
+_- 24104 DUSABEYEZU Sangwa Fabrice_
 
 _- 26500 SHEJA N M Yves_
 
